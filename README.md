@@ -12,6 +12,10 @@ Below we build a TIFF for importing in Chimera.
 Each level set is a Julia set with the corresponding $c$
 in $f_c(z) = z^2 + c$ on a circle passing through 0.
 
+If you know some skimage you can extract the TIFF layers from this GIF ;)
+
+![slices](https://github.com/macbuse/Mandelbrottle/blob/master/pp.gif)
+
 ![finished](https://github.com/macbuse/Mandelbrottle/blob/master/mandelbrottle.jpg)
 
 
