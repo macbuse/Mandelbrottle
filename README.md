@@ -12,9 +12,6 @@ Below we build a TIFF for importing in Chimera.
 Each level set is a Julia set with the corresponding $c$
 in $f_c(z) = z^2 + c$ on a circle passing through 0.
 
-If you know some skimage you can extract the TIFF layers from this GIF ;)
-
-![slices](https://github.com/macbuse/Mandelbrottle/blob/master/pp.gif)
 
 ![finished](https://github.com/macbuse/Mandelbrottle/blob/master/mandelbrottle.jpg)
 
@@ -24,7 +21,9 @@ If you know some skimage you can extract the TIFF layers from this GIF ;)
 
 ## Technical notes
 
+
 1. If you have have Anaconda and you shouldn't need to install anything except maybe svgpathtools
+
 
 1. Download the *json* files that contain the profile curve for a bottle
 and put them on your Desktop.
@@ -33,8 +32,9 @@ and put them on your Desktop.
 with [this package](https://pypi.org/project/pychimera/0.1.11/)
 but it only works with python 2.7 and I'm tired of building environments.
 
+1. If you know some skimage you can extract the TIFF layers from this GIF ;)
+
+![slices](https://github.com/macbuse/Mandelbrottle/blob/master/pp.gif)
 
 
----
 
-## Here is the bottle top 
