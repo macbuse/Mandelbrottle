@@ -13,7 +13,7 @@ Each level set is a Julia set with the corresponding $c$
 in $f_c(z) = z^2 + c$ on a circle passing through 0.
 
 
-![finished](https://github.com/macbuse/Mandelbrottle/blob/master/mandelbrottle.jpg)
+![finished](./mandelbrottle.jpg)
 
 
 ---
@@ -34,7 +34,7 @@ but it only works with python 2.7 and I'm tired of building environments.
 
 1. If you just want the TIFFs, don't want to have all the fun and/or pain, and know some skimage you can extract the layers from this GIF probably ;) 
 
-![slices](https://github.com/macbuse/Mandelbrottle/blob/master/pp.gif)
+![slices](./pp.gif)
 
 
 
