@@ -32,7 +32,7 @@ and put them on your Desktop.
 with [this package](https://pypi.org/project/pychimera/0.1.11/)
 but it only works with python 2.7 and I'm tired of building environments.
 
-1. If you know some skimage you can extract the TIFF layers from this GIF ;)
+1. If you just want the TIFFs, don't want to have all the fun and/or pain, and know some skimage you can extract the layers from this GIF probably ;) 
 
 ![slices](https://github.com/macbuse/Mandelbrottle/blob/master/pp.gif)
 
