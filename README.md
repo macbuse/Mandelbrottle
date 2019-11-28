@@ -22,7 +22,7 @@ in $f_c(z) = z^2 + c$ on a circle passing through 0.
 ## Technical notes
 
 
-1. If you have have Anaconda and you shouldn't need to install anything except maybe svgpathtools
+1. If you have have Anaconda then you shouldn't need to install anything except maybe svgpathtools
 
 
 1. Download the *json* files that contain the profile curve for a bottle
